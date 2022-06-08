@@ -1,7 +1,7 @@
 'use strict';
 
 import * as utils from './utils';
-import LD from 'koa-i18next-detector';
+import LD from 'koa-i18next-detector-fixed';
 
 export var LanguageDetector = LD;
 
